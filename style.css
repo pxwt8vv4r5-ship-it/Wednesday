@@ -1,0 +1,45 @@
+body{
+  font-family: sans-serif;
+  background-color: Black;
+  
+header{
+    background-color:#9461fa;
+    padding: 10px;
+    margin: 10px;
+}
+nav{
+    background-color:#9461fa;
+    padding: 10px;
+    margin: 10px;
+}
+div{
+    background-color:#9461fa;
+    padding: 10px;
+    margin: 10px;
+}
+footer{
+    background-color:#9461fa;
+    padding: 10px;
+    margin: 10px;
+}
+
+img{
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+
+a{
+    color:#9461fa;
+    
+}
+
+.link{
+    text-align: center;
+    background-color: black;
+}
